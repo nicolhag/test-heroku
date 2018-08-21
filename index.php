@@ -22,7 +22,7 @@
     </header>
 
     <main>
-	<h1>TØFT OG KULT!</h1>
+	<h1>STILIG OG GØY!!!</h1>
     </main>
 
     <script type="text/javascript" src="/script.js"></script>
